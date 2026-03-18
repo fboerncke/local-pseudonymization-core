@@ -1,0 +1,1 @@
+Planned proxy layer for integrating local pseudonymization into AI and LLM workflows.
